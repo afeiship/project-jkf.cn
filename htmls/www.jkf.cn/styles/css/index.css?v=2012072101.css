@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+body{background-color:#F9F7F4;}
+.col-main{background:url(http://www.jkf.cn/styles/img/mod/index/line.gif) no-repeat 720px 40px;}
+
+/*= Banner =*/
+.banner-1{background:#ffffff;height:381px;}
+.banner-1 .banner{height:381px;margin:0 auto;position:relative;}
+.banner-1 .slider{}
+.banner-1 .slider li{width:100%;height:381px;position:absolute;top:0;left:0;display:none;filter:alpha(opacity=100);}
+.banner-1 .slider .show{display:block;}
+.banner-1 .slider li a{display:block;height:381px;text-indent:-9999px;}
+.banner-1 .slider .item-0 a{background:url(../img/data/banner/banner_1.jpg) center no-repeat;}
+.banner-1 .slider .item-1 a{background:url(../img/data/banner/banner_2.jpg) center no-repeat;}
+.banner-1 .ctrl{position:absolute;top:22px;right:3px;}
+.banner-1 .ctrl span,
+.banner-1 .ctrl a{display:block;float:left;}
+.banner-1 .ctrl span{padding-left:5px;}
+.banner-1 .ctrl a{width:42px;height:42px;background:url(../img/base/sprites.png) no-repeat 0 -9999px;text-indent:-9999px;}
+.banner-1 .ctrl a:hover,
+.banner-1 .ctrl a:active{height:47px;}
+.banner-1 .ctrl .prev a{width:40px;height:46px;background:url(../img/base/btn_left.png) no-repeat;}
+.banner-1 .ctrl .next a{width:40px;height:46px;background:url(../img/base/btn_right.png) no-repeat;}
+.banner-1 .ctrl .prev a:hover,
+.banner-1 .ctrl .prev a:active{width:40px;height:46px;background:url(../img/base/btn_left_down.png) no-repeat;}
+.banner-1 .ctrl .next a:hover,
+.banner-1 .ctrl .next a:active{width:40px;height:46px;background:url(../img/base/btn_right_down.png) no-repeat}
+
+
+/*= Layout =*/
+.layout-1 .col-main .main-wrap{padding-top:16px;}
+.layout-1 .col-sub{padding-top:29px;}
+.layout-1{margin-bottom:25px;}
+
+/*= Reason =*/
+.sec-reason{margin-bottom:20px;}
+.sec-reason .title span{display:block;float:left;}
+.sec-reason .title .txt{font:18px  "Microsoft Yahei", "SimHei";line-height:45px;margin-right:10px;}
+.sec-reason .title .point{width:27px;height:44px;background:url(../img/base/sprites.png) no-repeat 0 -50px;text-indent:-9999px;}
+
+.sec-reason ol{margin-right:-34px;padding:6px 0;}
+.sec-reason ol li{float:left;height:51px;margin-right:34px;background:url(http://www.jkf.cn/styles/img/mod/index/sprites-24.png) no-repeat 0 -9999px;text-indent:-9999px;}
+.sec-reason ol .reason-1{width:143px;background-position:0 0;}
+.sec-reason ol .reason-2{width:143px;background-position:-148px 0;}
+.sec-reason ol .reason-3{width:144px;background-position:-301px 0;}
+.sec-reason ol .reason-4{width:145px;background-position:-450px 0;}
+
+/*= Case =*/
+.sec-case header,
+.sec-case header .title{line-height:37px;}
+.sec-case .sec-bd{padding:7px 0;margin-right:-20px;}
+.sec-case .sec-bd ul,
+.sec-case .sec-bd li{float:left;}
+.case-tpl{margin-right:-30px;}
+.case-tpl li{margin-right:30px;}
+.case-tpl li a,
+.case-tpl li img{display:block;width:112px;}
+.case-tpl li a{height:84px;overflow:hidden;border:1px #EDEDED solid;}
+
+/*= News =*/
+.sec-news header,
+.sec-news header .title{line-height:25px;}
+.sec-news .sec-bd{padding:10px 0;}
+.sec-news li{float:left;width:100%;height:24px;line-height:24px;overflow:hidden;}
+.sec-news li a{display:block;float:left;width:155px;}
+.sec-news li .date{float:right;color:#999;}
+
+/*= Guide =*/
+.guide{margin-bottom:22px;}
+.guide .guest a{display:block;height:53px;background:url(http://www.jkf.cn/styles/img/mod/index/sprites-24.png) no-repeat 0 -9999px;text-indent:-9999px;}
+.guide .guest .join{float:left;width:147px;background-position:0 -78px;}
+.guide .guest .login{float:right;width:76px;background-position:-147px -78px;}
+
+.guide .fast-menu{height:29px;line-height:29px;background:#ddf1fc;padding:10px 15px;border:1px solid #bfdeef;}
+.guide .fast-menu ul{margin-right:-15px;}
+.guide .fast-menu li{float:left;padding-right:15px;}
+.guide .fast-menu li a{color:#216da7;line-height:29px;}

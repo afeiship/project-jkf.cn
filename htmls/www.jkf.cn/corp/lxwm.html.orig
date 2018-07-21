@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>联系我们 - 极开发工作室【上海极开网络科技有限公司】</title>
+<meta name="keywords" content="极开发工作室,Android应用开发,IOS应用开发,app定制开发,java项目外包"  />
+<meta name="description" content="极开发工作室成立于2011年，由一批具有丰富实战项目经验的技术团队创建。致力于Android、IOS应用开发、Java EE项目开发、Linux定制与内核优化、高端视觉设计、高端域名代购等优质的网络服务。"  />
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="../js/html5.js?v=2012072101"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../styles/css/global.css?v=2012072101" />
+<link rel="stylesheet" type="text/css" href="../styles/css/sub-index.css?v=2012111601" media="screen" />
+<link rel="stylesheet" type="text/css" href="../styles/css/g.css?v=2012072101" media="screen" />
+<link rel="stylesheet" media="screen" href="../js/plugins/artDialog/skins/default.css" />
+<link rel="shortcut icon" type="image/png" href="../styles/img/base/favicon.ico" />
+
+<script type="text/javascript" src="../js/jquery-1.4.2.min.js?v=2012072101"></script>
+<script type="text/javascript" src="../js/index.js?v=2012072101"></script>
+<script type="text/javascript" src="../js/plugins/artDialog/artDialog.js"></script>
+<script type="text/javascript" src="../js/plugins/jquery.min.js"></script>
+<script type="text/javascript">
+function showWeiXin(){
+	art.dialog({
+	    title: '扫描微信二维码与我联系',
+	    content: "<img src='../styles/img/data/qrcode.jpg' />"
+	});
+}
+</script>
+</head>
+<body>
+<!--[if lte IE 8]>
+<noscript>
+	<style>
+		div,ul{display:none !important;}
+		body{background:none !important;}
+	</style>
+	<span id="html5problem">
+		<a href="#"><img class="logo" src="../img/base/tips-logo.png" alt="" /></a>
+		<p class="msg">尊敬的IE8及以下版本浏览器用户，请 <a class="highlight" href="#">启用脚本</a> 以便继续访问本站。</p>
+	</span>
+</noscript>
+<![endif]-->
+
+<header id="hd">
+	<div class="clearfix webtitle">
+		<h1 class="logowrap" role="logo">
+		<span class="sitename">
+			<a href="http://www.jkf.cn" title="到极开发首页" accesskey="h">极开发</a>
+		</span>
+		</h1>
+	
+		<nav class="clearfix sitenav" role="navigation">
+			<ul id="menu" class="menu">
+				<li class="first"><a href="../index.html" title=""><span>首　页</span></a></li>
+				<li><a href="gywm.html" title=""><span>关于我们</span></a></li>
+				<li><a href="../news/page_1.html" title=""><span>新闻中心</span></a></li>
+				<li><a href="../product/index.html" title=""><span>客户案例</span></a></li>
+				<li class="last current"><a href="lxwm.html" title=""><span>联系我们</span></a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+<div id="bd">
+	<a name="content"></a>
+	<div class="clearfix bannerwrap banner-3">
+		<div class="banner">
+			<ul id="slider" class="clearfix slider">
+				<li class="item-1"></li>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="space_30"></div>
+	
+	<div class="sub-container">
+	<div class="wrap">
+		<div class="left">
+			<div id="corp_div">
+				<div class="app_con">
+					<h3>联系我们</h3>
+					<div class="sub-title-hr">
+						<h2 class="wiki_title"> <span class="mw-headline">日常联系</span></h2>
+						<ul class="sub_cont_ul fs14">
+							<li><b>地址：</b>上海市徐汇区龙华中路600号(绿地中心B座)713室B20室</li>
+							<li><b>网址：</b>www.jkf.cn</li>
+							<li><b>电话：</b>156-1818-1515 (陶先生)</li>
+							<li><b>邮箱：</b>jikaifa#qq.com (#号替换为@)</li>
+						</ul>
+						<br/>
+						<h2 class="wiki_title"> <span class="mw-headline">商务合作</span></h2>
+						<ul class="sub_cont_ul fs14">
+							<li><b>Q&nbsp;&nbsp;Q：</b>565998</li>
+							<li><b>微信：</b>565998</li>
+						</ul>
+						<br/>
+						<h2 class="wiki_title"> <span class="mw-headline">友情链接交换</span></h2>
+						<ul class="sub_cont_ul fs14">
+							<li><b>Q&nbsp;&nbsp;Q：</b>565998（交换时请注明PR值）</li>
+						</ul>
+						<br/>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="right">
+			<div class="app_menu">
+				<div class="app_menu_t"></div>
+				<div class="app_menu_c">
+					<ul id="corp_ul">
+						<li><a href="gywm.html">关于我们</a></li>
+						<li><a href="lxwm.html" style="color:#f60;">联系我们</a></li>
+						<li><a href="yqlj.html">友情链接</a></li>
+						<li><a href="mzsm.html">免责声明</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+
+<div class="clear"></div>
+<div id="ft">
+	<p class="footnav">
+		<a href="gywm.html" class="pr10">关于极开发</a>|
+		<a href="lxwm.html" class="pl10 pr10">联系我们</a>|
+		<a href="../product/index.html" class="pl10 pr10">客户案例</a>|
+		<a href="yqlj.html" class="pl10 pr10">友情链接</a>|
+		<a href="mzsm.html" class="pl10 pr10">免责声明</a>|
+		<a href="../blog/page_1.html" class="pl10">团队博客</a>
+	</p>
+	<p class="copyright">Copyright&nbsp;&nbsp;&copy; 2011 - 2014 &nbsp;<a href="http://www.jkf.cn" title="上海极开网络科技有限公司">上海极开网络科技有限公司</a>  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">苏ICP备13044187号</a></p>
+</div>
+
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;mini=1&amp;img=5&amp;pos=left&amp;uid=759970" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	//在这里定义bds_config
+	var bds_config = {'bdText':'极开发工作室成立于2011年，由一批具有丰富实战项目经验的技术团队创建。致力于Android、IOS应用开发、Java EE项目开发、Linux定制与内核优化、高端视觉设计、高端域名代购等优质的网络服务。'};
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+<!-- 百度统计 -->
+<script type="text/javascript" src="../js/baidutongji.js?v=2012072101"></script>
+</body>
+</html>

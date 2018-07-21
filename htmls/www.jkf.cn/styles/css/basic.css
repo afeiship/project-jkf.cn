@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+/*= Reset =*/
+section,article,aside,header,footer,nav,dialog,figure,legend{display:block;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,figure{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;empty-cells:show;}
+table td{word-break:break-all;}
+caption,th{text-align:left;}
+ol,ul{list-style:none;}
+img,fieldset{border:0;}
+*:focus{outline:0;}
+
+/*= Typography =*/
+body,input,button,select,textarea,optgroup{font:100% "Lucida Grande",Helvetica,Arial,sans-serif;}
+code{font-family:Consolas,"Courier New",monospace;}
+body{line-height:1.5;background:#fff;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+
+/*= Common style =*/
+.clearfix{zoom:1;}
+.clearfix:after{content:".";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+.clear {clear:both; height:1px; margin-top:-1px; overflow:hidden;}
+.overflow{overflow:auto; zoom:1;}
+span.clearinput{width:0;overflow:hidden;display:inline-block;float:left;}
+input.button,button{cursor:pointer;overflow:visible;/*Fix IE lt 8 bug*/}
+textarea{overflow:auto;/*Hide the scrollbar for IE*/}
+label[for]{cursor:pointer;}
+a{cursor:pointer;text-decoration:none;}
+a:hover,a:active{text-decoration:underline;}
+a{color:#333;}
+a:hover,a:active,
+a.highlight:link,a.highlight:visited{color:#216da7;}
+a.highlight:hover,a.highlight:active{text-decoration:underline;}
+a.blue:link,a.blue:visited{color:#36c;text-decoration:none;}
+a.blue:hover,a.blue:active{text-decoration:underline;}
+.f1 {float:left;}
+.f2 {float:right;}
+.hide{display:none;}
+.hide2{height:1px; margin-top:-1px; overflow:hidden;}
+.show{display:block;}
+
+.show-loading{
+	width:86px;height:26px;padding:0 0 0 30px;
+	font-weight:bold;font-size:14px;line-height:26px;color:#fff;
+	background:#FD9104 url(../img/mod/saas_loading.gif) no-repeat 8px 6px;
+	position:absolute;z-index:101;display:none;
+	margin:0 0 0 -58px;left:50%;
+}
+
+::-webkit-input-placeholder{color:#999;}
+input:-moz-placeholder,textarea:-moz-placeholder{color:#999;}
+
+
+span.icon{width:16px;height:16px;overflow:hidden;text-indent:-9999px;}
+
+.col-sub,.col-extra{float:left;display:inline;}
+
+#skip2content{height:1px; margin-top:-1px; overflow:hidden;}
+.ol-loading{width:86px;height:26px;padding:0 0 0 30px;font-weight:bold;font-size:14px;line-height:26px;color:#fff;background:#fd9104 url(http://www.jkf.cn/styles/img/icon/saas_loading.gif) no-repeat 8px 6px;position:absolute;z-index:101;margin:0 0 0 -58px;left:50%;top:50%;display:none;}
+
+.cnzz{display:none;}
+
+.grey{color:#999;}
+.darkgrey{color:#555;}
+.red{color:#f00;}
+.blue{color:#36c;}
+.green{color:#3aa000;}
+.yellow{color:#DA6100;}
+.orange{color:#f60;}
+
+.large{font-size:117%;}
+.larger{font-size:150%;}
+.larger2{font-size:180%;}
+.linethrough{text-decoration:line-through;}
+.underline{text-decoration:underline;}
+
+.align-center{text-align:center;}
+
+.w1{width:25px;}
+.w2{width:50px;}
+.w3{width:75px;}
+.w4{width:100px;}
+.w5{width:125px;}
+.w6{width:150px;}
+.w7{width:175px;}
+.w8{width:200px;}
+.w9{width:225px;}
+.w10{width:250px;}
+.w11{width:275px;}
+.w12{width:300px;}
+.w13{width:325px;}
+.w14{width:350px;}
+.w15{width:375px;}
+.w16{width:400px;}
+.w17{width:425px;}
+.w18{width:450px;}
+.w19{width:475px;}
+.w20{width:500px;}
+
+.fl{float:left;} 
+.fr{float:right;}
+.space_15{ height:15px; font-size:0; clear:both;}
+.space_30{ height:30px; font-size:0; clear:both;}
+.space_50{ height:50px; font-size:0; clear:both;}
+
+.fs14{font-size: 14px;}
+.pl10{padding-left: 10px;}
+.pr10{padding-right: 10px;}

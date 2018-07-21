@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>客户案例 - 极开发工作室 |APP应用定制开发|互联网项目定制开发|Linux系统优化|手绘UI设计</title>
+<meta name="keywords" content="极开发工作室,Android应用开发,IOS应用开发,app定制开发,java项目外包"  />
+<meta name="description" content="极开发工作室成立于2011年，由一批具有丰富实战项目经验的技术团队创建。致力于Android、IOS应用开发、Java EE项目开发、Linux定制与内核优化、高端视觉设计、高端域名代购等优质的网络服务。"  />
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="../js/html5.js?v=2012072101"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../styles/css/global.css?v=2012072101" />
+<link rel="stylesheet" type="text/css" href="../styles/css/sub-index.css?v=2012111601" media="screen" />
+<link rel="stylesheet" type="text/css" href="../styles/css/g.css?v=2012072101" media="screen" />
+<link rel="stylesheet" type="text/css" href="../styles/css/anli.css" media="screen" />
+<link rel="shortcut icon" type="image/png" href="../styles/img/base/favicon.ico" />
+
+<script type="text/javascript" src="js/jquery-1.4.2.min.js?v=2012072101"></script>
+<script type="text/javascript" src="js/index.js?v=2012072101"></script>
+</head>
+<body>
+<!--[if lte IE 8]>
+<noscript>
+	<style>
+		div,ul{display:none !important;}
+		body{background:none !important;}
+	</style>
+	<span id="html5problem">
+		<a href="#"><img class="logo" src="../img/base/tips-logo.png" alt="" /></a>
+		<p class="msg">尊敬的IE8及以下版本浏览器用户，请 <a class="highlight" href="#">启用脚本</a> 以便继续访问本站。</p>
+	</span>
+</noscript>
+<![endif]-->
+
+<header id="hd">
+	<div class="clearfix webtitle">
+		<h1 class="logowrap" role="logo">
+		<span class="sitename">
+			<a href="http://www.jkf.cn" title="到极开发首页" accesskey="h">极开发</a>
+		</span>
+		</h1>
+		<nav class="clearfix sitenav" role="navigation">
+		<ul id="menu" class="menu">
+				<li class="first"><a href="../index.html" title=""><span>首　页</span></a></li>
+				<li><a href="../corp/gywm.html" title=""><span>关于我们</span></a></li>
+				<li><a href="../news/page_1.html" title=""><span>新闻中心</span></a></li>
+				<li class="current"><a href="../product/index.html" title=""><span>客户案例</span></a></li>
+				<li class="last"><a href="../corp/lxwm.html" title=""><span>联系我们</span></a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+<div id="bd" style="background-color: #ffffff;">
+	<a name="content"></a>
+	<div class="clearfix bannerwrap banner-3">
+		<div class="banner">
+		<ul id="slider" class="clearfix slider">
+			<li class="item-1"></li>
+		</ul>
+		</div>
+	</div>
+	<div class="space_15"></div>
+	<div class="sub-container">
+	
+	
+	<div class="container" style="padding-top:30px;">
+			<div id="page1" class="clickable variable-sizes clearfix row">
+				<div class="page2 pfolio_item brand one-third column" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.zhubi.com" class="prettyPhoto" title="助币网" target="_blank">
+			        <img src="../styles/img/data/anli/zhubi.png" alt="助币网" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>助币网</h4>
+			        <p>
+			           域名虚拟币兑换平台
+			        </p>
+			      </div>
+			    </div>	
+			    <div class="page2 pfolio_item brand one-third column" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.wsncloud.com" class="prettyPhoto" title="传感云" target="_blank">
+			        <img src="../styles/img/data/anli/wsncloud.png" alt="传感云" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>传感云</h4>
+			        <p>
+			           物联网免费云平台
+			        </p>
+			      </div>
+			    </div>	
+			    <div class="page5 pfolio_item brand one-third columns_last" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.fumi.com" class="prettyPhoto" title="富米网" target="_blank">
+			        <img src="../styles/img/data/anli/fumi.png" alt="富米网" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>富米网</h4>
+			        <p>
+			          高端域名销售平台
+			        </p>
+			      </div>
+			    </div>
+			    <div class="page1 pfolio_item brand one-third column" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://123.fumi.com" class="prettyPhoto" title="数字米" target="_blank">
+			        <img src="../styles/img/data/anli/shuzimi.png" alt="数字米" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>数字米</h4>
+			        <p>
+			          富米网旗下数字域名交易平台
+			        </p>
+			      </div>
+			    </div>	
+			    <div class="page1 pfolio_item brand one-third column" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.guanren.com" class="prettyPhoto" title="官人域名" target="_blank">
+			        <img src="../styles/img/data/anli/guanren.png" alt="官人域名" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>官人域名</h4>
+			        <p>
+			          张大官人个人域名发布平台
+			        </p>
+			      </div>
+			    </div>			    
+			    <div class="page1 pfolio_item brand one-third columns_last" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.mingwang.com" class="prettyPhoto" title="名网" target="_blank">
+			        <img src="../styles/img/data/anli/mingwang.png" alt="名网" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>名网</h4>
+			        <p>
+			           专业域名销售团队
+			        </p>
+			      </div>
+			    </div>
+			    <div class="page1 pfolio_item brand one-third column" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.lsf.cn" class="prettyPhoto" title="溧水房产网" target="_blank">
+			        <img src="../styles/img/data/anli/lsf.png" alt="溧水房产网" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>溧水房产网</h4>
+			        <p>
+			           溧水最专注的房产信息网
+			        </p>
+			      </div>
+			    </div>
+			    <div class="page1 pfolio_item brand one-third columns" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://www.yybs.cn" class="prettyPhoto" title="优优毕设网" target="_blank">
+			        <img src="../styles/img/data/anli/yybs.png" alt="优优毕设网" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>优优毕设网</h4>
+			        <p>
+			           优优毕设网专业代做计算机毕业设计
+			        </p>
+			      </div>
+			    </div>
+			    <div class="page1 pfolio_item brand one-third columns_last" data-filter="brand">
+			      <div class="picture">
+			        <a href="http://apk.91.com/Soft/Android/com.duwaiweb.GPSTrack-2035537617.html" class="prettyPhoto" title="老人监护" target="_blank">
+			        <img src="../styles/img/data/anli/jianhu.png" alt="老人监护" />
+			        </a>
+			      </div>
+			      <div class="pfolio_desc">
+			        <h4>老人监护</h4>
+			        <p>
+			           老人监护是一款专为老人GPS定位监护类免费软件
+			        </p>
+			      </div>
+			    </div>
+			</div>
+			
+		</div>
+	
+	
+	
+	<div class="space_15"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<div id="ft">
+	<p class="footnav">
+		<a href="../corp/gywm.html" class="pr10">关于极开发</a>|
+		<a href="../corp/lxwm.html" class="pl10 pr10">联系我们</a>|
+		<a href="../product/index.html" class="pl10 pr10">客户案例</a>|
+		<a href="../corp/yqlj.html" class="pl10 pr10">友情链接</a>|
+		<a href="../corp/mzsm.html" class="pl10 pr10">免责声明</a>|
+		<a href="../blog/page_1.html" class="pl10">团队博客</a>
+	</p>
+	<p class="copyright">Copyright&nbsp;&nbsp;&copy; 2011 - 2014 &nbsp;<a href="http://www.jkf.cn" title="上海极开网络科技有限公司">上海极开网络科技有限公司</a>  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">苏ICP备13044187号</a></p>
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;mini=1&amp;img=5&amp;pos=left&amp;uid=759970" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	//在这里定义bds_config
+	var bds_config = {'bdText':'站长V5是一款基于手机的站长必备软件，具有域名查询、whois查询、网站ping、域名到期智能提醒等实用功能。安全、快速、稳定；不弹广告、不发无用通知，更不会悄悄上传您的使用记录，做中国最有良心的站长工具软件。'};
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END -->
+<!-- 百度统计 -->
+<script type="text/javascript" src="../js/baidutongji.js?v=2012072101"></script>
+</body>
+</html>

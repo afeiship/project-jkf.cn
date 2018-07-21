@@ -1,0 +1,130 @@
+@charset "utf-8";
+@import url(basic.css);
+
+body{background:#fff url(../img/base/bg-head.png) repeat-x 0 0;font-size:12px;color:#333;}
+
+
+/*= Global =*/
+#skip2content{height:1px; margin-top:-1px; overflow:hidden;}
+#hd,
+.copyright,
+.footnav,
+.bannerwrap .banner,
+.layout-1,
+.layout-3{width:980px;margin-left:auto;margin-right:auto;}
+
+#bd{position:relative;}
+
+/*= Header =*/
+.headbar{height:27px;line-height:27px;}
+.headbar .userinfo{float:left;color:#999;width:450px;height:27px;overflow:hidden;}
+.headbar .userinfo a{margin:0 0.3em;}
+.headbar .userinfo .username{text-decoration:underline;}
+.headbar .menu{float:right;height:27px;}
+.headbar .menu li{float:left;padding:0 9px 0 8px;background:url(../img/base/word-split.png) no-repeat 100%;}
+.headbar .menu .last{background:none;padding-right:0;}
+.headbar .menu li a{display:block;float:left;}
+
+/*
+.headbar .menu .help a{color:#06f;}
+*/
+
+.headbar .menu .multimenu{padding:0 5px 0 3px;line-height:25px;position:relative;z-index:1;}
+.headbar .menu .multimenu .inner{padding:1px 9px;}
+.headbar .menu .multimenu .inner .parent{float:none;display:inline-block;padding-right:10px;background:url(../img/base/sprites.png) no-repeat 100% -49px;}
+
+.headbar .menu .multimenu .hover{padding:0 8px;border:1px #D8D8D8 solid;background:#fff;}
+
+.headbar .menu .multimenu .child{position:absolute;top:26px;left:3px;width:100%;visibility:hidden;}
+.headbar .menu .multimenu .hover .child{visibility:visible;}
+.headbar .menu .multimenu .child .list{border:1px #D8D8D8 solid;border-top:none;background:#fff;padding:2px 0 4px;}
+.headbar .menu .multimenu .child .list a{display:block;line-height:200%;padding-left:9px;}
+.headbar .menu .multimenu .child .list a{float:none;}
+.headbar .menu .multimenu .child .list .withicon{}
+
+.headbar .menu .my .child{width:75px;}
+
+.headbar .menu .follow a{text-decoration:none !important;}
+.headbar .menu .follow .child{width:96px;}
+.headbar .menu .follow .child .list a{text-align:left;padding-left:8px;}
+
+
+
+.webtitle{}
+.logowrap{padding-top:14px;}
+.logowrap,
+.logowrap span,
+.logowrap a{display:block;float:left;}
+.logowrap a{background:url(../img/base/logo.png) no-repeat 0 -9999px;text-indent:-9999px;}
+.logowrap .sitename a{width:170px;height:55px;background-position:0 0;}
+
+
+/*= Navigation =*/
+.sitenav{float:right;padding-top:34px;}
+.sitenav ul,
+.sitenav li{float:left;}
+.sitenav li{height:44px;padding:0 18px;background:url(../img/base/word-split.png) no-repeat 100% 15px;font:14px  "Microsoft Yahei";line-height:44px;white-space:nowrap;}
+.sitenav .last{padding-right:2px;background:none;}
+.sitenav li a{color:#6d6d6d;}
+.sitenav .current a,
+.sitenav li a:hover,
+.sitenav li a:active{color:#fff;text-decoration:none;border-bottom:2px solid #939393;padding-bottom: 6px;}
+
+
+/*= Banner =*/
+
+
+
+/*= Layout =*/
+
+.col-main{float:left;width:100%;min-height:1px;}
+.layout-1 .col-main .main-wrap{margin-right:290px;}
+.layout-1 .col-sub{width:230px;margin-left:-230px;}
+.layout-2 .col-main .main-wrap{margin-left:199px;}
+.layout-2 .col-sub{width:198px;margin-left:-100%;}
+.layout-3 .col-main .main-wrap{margin-right:265px;}
+.layout-3 .col-sub{width:240px;margin-left:-240px;}
+
+
+/*= Page information =*/
+.sec-pageinfo{padding:10px 5px;}
+.sec-pageinfo .path{color:#666;font-weight:100;float:left;}
+.sec-pageinfo .path a,
+.sec-pageinfo .path .current,
+.sec-pageinfo .path .item{color:#666;margin:0 0.3em 0.4em;}
+.sec-pageinfo .path a:hover{color:#216da7;}
+.sec-pageinfo .path .split{font-family:"宋体";}
+.sec-pageinfo .note{float:right;}
+
+
+/*= Section =*/
+.sec header .title,
+.sec header .title span{float:left;}
+.sec header .title{font:16px  "Microsoft Yahei", "SimHei";}
+.sec header .extra{float:right;}
+.sec header .extra a{color:#838383;}
+
+
+/*= Footer =*/
+#ft{background:#404040;border-top:1px #e2e2e2 solid;padding:25px 0;}
+#ft .copyright{text-align:center;line-height:21px;color:#969696;display: block;}
+#ft .copyright a{color:#969696;}
+
+
+/*= noscript =*/
+#html5problem{text-align:center;position:absolute;left:50%;top:50%;margin-top:-48px;margin-left:-180px;}
+#html5problem a{display:block;}
+#html5problem a.highlight{display:inline;}
+
+
+/*= Fail tips =*/
+.page-error{width:650px;margin:0 auto;padding:60px 0 0 330px;min-height:320px;_height:320px;background:url(../img/base/page-error-bg.png) no-repeat 188px 56px;}
+.page-error h2{font:18px/40px "Microsoft Yahei"}
+.page-error .page-jump{margin-top:5px;color:#999;height:20px;line-height:20px;}
+.page-error .page-jump a{color:#216DA7;text-decoration:underline;}
+.page-error .page-error-info{margin-top:20px;line-height:24px;}
+.page-error .page-error-info a{color:#216DA7;text-decoration:underline;margin:0 3px;}
+
+/* 清理浮动 */
+.space_50{ height:50px; font-size:0; clear:both;}
+.clear{ clear:both; font-size:0; height:0; line-height:0;}
